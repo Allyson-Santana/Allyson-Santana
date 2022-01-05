@@ -4,6 +4,8 @@
 
 🖥️ Cursando o 2° ciclo em Tecnólogo Análise e Desenvolvimento na Fatec Rubens Lara Santos - SP 
 
+📧 E-mail para Contato: santana.allyson886@gmail.com
+
 ## 
 
 <div align="start">
