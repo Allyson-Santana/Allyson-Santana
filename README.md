@@ -1,7 +1,8 @@
-## Sejá Bem Vindo(a) eu sou Allyson Santana, Desenvolverdor de Software Júnior! 👋 <br /> <br />
+## 👋 Sejá Bem Vindo(a) eu sou Allyson Santana, Desenvolverdor de Software Júnior! 💻 <br /> <br />
 
-* Técnico em Análise e Desenvolvimento de sistema pela Etec Ruth° Cardoso São Vicente - SP
-* Cursando o 2° ciclo em Tecnólogo Análise e Desenvolvimento na Fatec Rubens Lara Santos - SP 
+🖥️ Técnico em Análise e Desenvolvimento de sistema pela Etec Ruth° Cardoso São Vicente - SP
+
+🖥️ Cursando o 2° ciclo em Tecnólogo Análise e Desenvolvimento na Fatec Rubens Lara Santos - SP 
 
 ## 
 
