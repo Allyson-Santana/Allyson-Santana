@@ -1,5 +1,10 @@
 ## Sejá Bem Vindo(a) eu sou Allyson Santana, Desenvolverdor de Software Júnior! 👋 <br /> <br />
 
+* Técnico em Análise e Desenvolvimento de sistema pela Etec Ruth° Cardoso São Vicente - SP
+* Cursando o 2° ciclo em Tecnólogo Análise e Desenvolvimento na Fatec Rubens Lara Santos - SP 
+
+## 
+
 <div align="start">
   <br/>
   <a href="https://github.com/Allyson-Santana">
@@ -24,3 +29,11 @@
   <a href="https://br.linkedin.com/in/allyson-santana-729612182" target="_blank"><img height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<!--  
+## Certificações
+  
+Microsoft Certified: Azure Fundamentals:
+[Visualizar credencial](https://www.credly.com/badges/a1fbfe8f-f3b0-44a3-a75c-cdd41c2c9e3d/public_url)
+-->
+
+ 
