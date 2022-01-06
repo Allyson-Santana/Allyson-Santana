@@ -1,4 +1,4 @@
-## 👋 Sejá Bem Vindo(a) eu sou Allyson Santana, Desenvolverdor de Software Júnior! 💻 <br /> <br />
+## 👋 Seja Bem Vindo(a) eu sou Allyson Santana, Desenvolverdor de Software Júnior! 💻 <br /> <br />
 
 🖥️ Técnico em Análise e Desenvolvimento de sistema pela Etec Ruth° Cardoso São Vicente - SP
 
