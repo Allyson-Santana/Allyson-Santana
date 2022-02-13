@@ -2,7 +2,7 @@
 
 🖥️ Técnico em Análise e Desenvolvimento de sistema pela Etec Ruth° Cardoso - São Vicente - SP
 
-🖥️ Cursando o 2° ciclo em Tecnólogo Análise e Desenvolvimento na Fatec Rubens - Lara Santos - SP 
+🖥️ Cursando o 2° ciclo em Tecnólogo Análise e Desenvolvimento na Fatec Rubens Lara - Santos - SP 
 
 📧 E-mail para Contato: santana.allyson886@gmail.com
 
