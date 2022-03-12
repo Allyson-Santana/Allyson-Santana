@@ -16,8 +16,8 @@
 </div>
 
 <div style="display: inline_block"><br>
-  ## Linguagens e framework:
   
+  ## Linguagens e framework:
   <img align="center" alt="Allyson-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Allyson-LARAVEL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Allyson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
