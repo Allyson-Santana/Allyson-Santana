@@ -26,7 +26,7 @@
   <img align="center" alt="Allyson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Allyson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-   ## Integrações com os seguintes SGBD:
+   ## Integração com os seguintes SGBD:
   <img align="center" alt="Allyson-MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="center" alt="Allyson-Mysql" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Allyson-SQLServer" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
@@ -39,11 +39,10 @@
   <a href="https://br.linkedin.com/in/allyson-santana-729612182" target="_blank"><img height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<!--  
+
 ## Certificações
   
 Microsoft Certified: Azure Fundamentals:
 [Visualizar credencial](https://www.credly.com/badges/a1fbfe8f-f3b0-44a3-a75c-cdd41c2c9e3d/public_url)
--->
 
  
