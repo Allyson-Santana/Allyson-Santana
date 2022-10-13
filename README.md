@@ -4,6 +4,9 @@
 
 🖥️ Cursando o 3° ciclo em Tecnólogo Análise e Desenvolvimento na Fatec Rubens Lara - Santos - SP 
 
+🖥️ Atualmente me aprofundando em Node-js, Typescript, Clean Architecture, TDD AWS
+
+
 📧 E-mail para Contato: santana.allyson886@gmail.com
 
 ## 
