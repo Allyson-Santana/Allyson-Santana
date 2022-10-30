@@ -18,6 +18,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allyson-Santana&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allyson-Santana)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   
