@@ -16,8 +16,8 @@
 
 <div align="center">
   <a href="https://github.com/Allyson-Santana">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Allyson-Santana&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
-  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allyson-Santana&include_all_commits=true&hide=php,c,blade,html,css&theme=radical&langs_count=7"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=Allyson-Santana&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allyson-Santana&include_all_commits=true&hide=php,c,blade,html,css&theme=radical&langs_count=7"/>
 </div>
   
 <div style="display: inline_block"><br>
