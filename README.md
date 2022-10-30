@@ -10,9 +10,15 @@
 📧 E-mail para Contato: santana.allyson886@gmail.com
 
 ## 
+<!-- option: &exclude_repo=repo1,repo2 | &hide=language1,language2 | &langs_count=language1,language2 | &layout=compact|langs_count=7 -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allyson-Santana&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allyson-Santana&include_all_commits=true&hide=php,c,blade,html,css&theme=radical)](https://github.com/Allyson-Santana/github-readme-stats) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allyson-Santana)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center">
+  <a href="https://github.com/Allyson-Santana">
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Allyson-Santana&show_icons=true&theme=radical&count_private=true&include_all_commits=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allyson-Santana&include_all_commits=true&hide=php,c,blade,html,css&theme=radical&langs_count=7"/>
+</div>
   
 <div style="display: inline_block"><br>
   
