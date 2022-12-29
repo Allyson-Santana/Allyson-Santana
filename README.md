@@ -2,9 +2,9 @@
 
 🖥️ Técnico em Análise e Desenvolvimento de sistema pela Etec Ruth° Cardoso - São Vicente - SP
 
-🖥️ Cursando o 3° ciclo em Tecnólogo Análise e Desenvolvimento na Fatec Rubens Lara - Santos - SP 
+🖥️ Cursando o 4° ciclo em Tecnólogo Análise e Desenvolvimento na Fatec Rubens Lara - Santos - SP 
 
-🖥️ Atualmente Estudando/me aprofundado sobre as seguintes ferramentas: Node-js, Typescript, Clean Architecture, Solid, Clean Code TDD e AWS
+🖥️ Atualmente Estudando/me aprofundado sobre as seguintes ferramentas: Node-js, Typescript, Clean Architecture, Solid, Clean Code, TDD, Docker
 
 
 📧 E-mail para Contato: santana.allyson886@gmail.com
