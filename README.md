@@ -4,7 +4,7 @@
 
 🖥️ Cursando o 4° ciclo em Tecnólogo Análise e Desenvolvimento na Fatec Rubens Lara - Santos - SP 
 
-🖥️ Atualmente Estudando/me aprofundado sobre as seguintes ferramentas: Clean Architecture, Solid, Clean Code, TDD, Docker usando Node-js e Typescript
+🖥️ Atualmente Estudando/me aprofundado sobre as seguintes tópicos: Clean Architecture, Solid, Clean Code, TDD, Docker usando Node-js e Typescrip.
 
 
 📧 E-mail para Contato: santana.allyson886@gmail.com
