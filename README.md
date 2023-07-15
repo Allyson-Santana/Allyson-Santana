@@ -12,7 +12,7 @@
 ## 
 <!-- option: &exclude_repo=repo1,repo2 | &hide=language1,language2 | &langs_count=language1,language2 | &layout=compact|langs_count=7 -->
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Allyson-Santana&theme=tokyo-night&hide_border=true">
+<!-- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Allyson-Santana&theme=tokyo-night&hide_border=true"> -->
 <br>
  
 <div align="center">
