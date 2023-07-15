@@ -1,8 +1,8 @@
-## 👋 Seja Bem-vindo(a) eu sou Allyson Santana, Desenvolverdor de Software FullStack! 💻 <br /> <br />
+## 👋 Seja Bem-vindo(a). Desenvolverdor de Software FullStack! 💻 <br /> <br />
 
-🖥️ Técnico em Análise e Desenvolvimento de sistema pela Etec Ruth° Cardoso - São Vicente - SP
+🖥️ Técnico em Análise e Desenvolvimento de sistema pela Etec Ruth° Cardoso
 
-🖥️ Cursando o 5° ciclo em Tecnólogo Análise e Desenvolvimento na Fatec Rubens Lara - Santos - SP 
+🖥️ Cursando o 5° ciclo em Tecnólogo Análise e Desenvolvimento na Fatec Rubens Lara
 
 <!-- 🖥️ Atualmente estudando/me aprofundado sobre os seguintes tópicos: Clean Architecture, Solid, Clean Code, TDD e Docker. Usando Node-js e Typescript. -->
 
