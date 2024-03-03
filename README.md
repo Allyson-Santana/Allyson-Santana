@@ -2,7 +2,7 @@
 
 🖥️ Técnico em Análise e Desenvolvimento de sistema pela Etec Ruth° Cardoso
 
-🖥️ Cursando o 5° ciclo em Tecnólogo Análise e Desenvolvimento na Fatec Rubens Lara
+🖥️ Formado em Tecnólogo Análise e Desenvolvimento na Fatec Rubens Lara
 
 <!-- 🖥️ Atualmente estudando/me aprofundado sobre os seguintes tópicos: Clean Architecture, Solid, Clean Code, TDD e Docker. Usando Node-js e Typescript. -->
 
@@ -27,8 +27,8 @@
   <img align="center" alt="Allyson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Allyson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Allyson-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Allyson-NESTJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="Allyson-NESTJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />       
+  <img align="center" alt="Allyson-NESTJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="Allyson-DJANGO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />       
   <img align="center" alt="Allyson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Allyson-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <!--   <img align="center" alt="Allyson-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> -->  
@@ -36,11 +36,6 @@
   <!--   <img align="center" alt="Allyson-Django" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg)"> -->
   <img align="center" alt="Allyson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Allyson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-   ## Integração com os seguintes SGBD:
-  <img align="center" alt="Allyson-MongoDB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt="Allyson-Mysql" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Allyson-SQLServer" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   
 </div>
 
